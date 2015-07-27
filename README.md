@@ -43,3 +43,4 @@ https://www.rakuten-sec.co.jp/web/market/ranking/indexes.html
 
 inhouse 賣買代金
 https://www.rakuten-sec.co.jp/web/market/ranking/in_house/#ranking-01
+a
